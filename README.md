@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Frida Bailleres 🇲🇽  </h1>
 
-<h3 align="center">I'm a 3rd-year Computer Science student with a keen interest in Front End Development, UX/UI Design, and making applications more user-friendly and visually appealing 🎨. </h3>
+<h3 align="center">I'm a 3rd-year Computer Science and Technology student with a keen interest in Front End Development, UX/UI Design, and making applications more user-friendly and visually appealing 🎨. </h3>
 
 ## 👩🏼‍💻 About Me 
 - 🌱 I’m currently honing my skills in **Front End Technologies** and **User Experience Design**.
